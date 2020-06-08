@@ -1,2 +1,2 @@
 # visao_computacional
-algoritmos tradicionais
+Algoritmos tradicionais de processamento de imagem e visão computacional
